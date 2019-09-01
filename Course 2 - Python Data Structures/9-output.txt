@@ -1,0 +1,1 @@
+Average spam confidence:  0.750718518519
